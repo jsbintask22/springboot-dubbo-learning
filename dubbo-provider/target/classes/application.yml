@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: dubbo-provider
-
-  dubbo:
-    server: true
-    registry: N/A
-server:
-  port: 8081

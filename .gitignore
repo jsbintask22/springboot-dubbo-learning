@@ -24,4 +24,6 @@
 /.nb-gradle/
 /build/
 
-target
+dubbo-consumer/target
+dubbo-api/target
+dubbo-provider/target
